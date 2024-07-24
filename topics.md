@@ -52,7 +52,6 @@
 - [java](#java)
 - [javascript](#javascript)
 - [json](#json)
-- [julia](#julia)
 - [jupyter-notebook](#jupyter-notebook)
 - [kotlin](#kotlin)
 - [language](#language)
@@ -369,10 +368,6 @@
 
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 
-## julia 
-
-- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
-
 ## jupyter-notebook 
 
 - [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
@@ -656,7 +651,6 @@
 ## r 
 
 - [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
-- [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 
 ## react 
 
