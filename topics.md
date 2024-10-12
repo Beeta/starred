@@ -509,7 +509,7 @@
 - [slan-ning/coolshell-markdown](https://github.com/slan-ning/coolshell-markdown) - coolshell.cn markdown version archive
 - [chenshuo/coolshell](https://github.com/chenshuo/coolshell) - Static mirror of coolshell.cn, (c) haoel 2023.
 - [water8394/flink-recommandSystem-demo](https://github.com/water8394/flink-recommandSystem-demo) - :helicopter::rocket:基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。
-- [GoldSubmarine/lizhi](https://github.com/GoldSubmarine/lizhi) - 🎉 南京李志 在线播放 国内高速cdn迅雷下载
+- [Nayacco/lizhi](https://github.com/Nayacco/lizhi) - 🎉 南京李志 在线播放 国内高速cdn迅雷下载
 - [dashidhy/algorithm-pattern-python](https://github.com/dashidhy/algorithm-pattern-python) - Python version of algorithm-pattern
 - [geekxh/hello-beginner](https://github.com/geekxh/hello-beginner) - github 最全技术类思维导图
 - [LUCY78765580/Python-web-scraping](https://github.com/LUCY78765580/Python-web-scraping) - python爬虫，包含大小项目
