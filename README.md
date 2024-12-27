@@ -215,6 +215,7 @@
 
 ## Python 
 
+- [kennethreitz/simplemind](https://github.com/kennethreitz/simplemind) - Python API client for AI providers that intends to replace LangChain and LangGraph for most common use cases.
 - [TencentBlueKing/bkpaas-python-sdk](https://github.com/TencentBlueKing/bkpaas-python-sdk) - 蓝鲸 PaaS 平台 Python 工具集
 - [dashidhy/algorithm-pattern-python](https://github.com/dashidhy/algorithm-pattern-python) - Python version of algorithm-pattern
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
