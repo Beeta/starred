@@ -208,12 +208,10 @@
 ## chrome 
 
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-- [hocgin/chrome-extension-weather](https://github.com/hocgin/chrome-extension-weather) - :cloud: Chrome 天气预报/空气质量插件
 
 ## chrome-extension 
 
 - [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-- [hocgin/chrome-extension-weather](https://github.com/hocgin/chrome-extension-weather) - :cloud: Chrome 天气预报/空气质量插件
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 
 ## cli 
