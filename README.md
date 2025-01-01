@@ -115,7 +115,6 @@
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [TuiQiao/CBoard](https://github.com/TuiQiao/CBoard) - An easy to use, self-service open BI reporting and BI dashboard platform.
 - [xueqiu/rdr](https://github.com/xueqiu/rdr) - 
-- [hocgin/chrome-extension-weather](https://github.com/hocgin/chrome-extension-weather) - :cloud: Chrome 天气预报/空气质量插件
 - [geekUsers/geekHome](https://github.com/geekUsers/geekHome) - :dancers: 极客屋是极客们的社区。在这里大家能够多多分享自己正在做的有趣事物、最近的学习、交流想法，在这里找到朋友认识更多有趣的人。
 - [seekerlee/SoundPirate](https://github.com/seekerlee/SoundPirate) - Chrome 插件：声海盗，下载在线音乐插件，支持豆瓣，虾米，QQ音乐，网易云音乐等
 - [isnowfy/simple](https://github.com/isnowfy/simple) - A static blog generator with a single static page
