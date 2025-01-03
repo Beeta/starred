@@ -270,7 +270,6 @@
 ## deep-learning 
 
 - [fendouai/Awesome-TensorFlow-Chinese](https://github.com/fendouai/Awesome-TensorFlow-Chinese) - Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：http://www.tensorflownews.com/
-- [zhourunlai/learning](https://github.com/zhourunlai/learning) - The data is the future of oil, digging the potential value of the data is very meaningful. This library records my road of machine learning study.
 - [rushter/MLAlgorithms](https://github.com/rushter/MLAlgorithms) - Minimal and clean examples of machine learning algorithms implementations
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
@@ -763,7 +762,6 @@
 - [ziiai/tensorflow-docs](https://github.com/ziiai/tensorflow-docs) - 最新 TensorFlow 中文文档（持续更新中）
 - [fendouai/Awesome-TensorFlow-Chinese](https://github.com/fendouai/Awesome-TensorFlow-Chinese) - Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，公众号：磐创AI，微信群二维码：http://www.tensorflownews.com/
 - [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
-- [zhourunlai/learning](https://github.com/zhourunlai/learning) - The data is the future of oil, digging the potential value of the data is very meaningful. This library records my road of machine learning study.
 - [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) - A list of popular github projects related to deep learning
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
