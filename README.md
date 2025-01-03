@@ -132,7 +132,6 @@
 - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 - [BrambleXu/pydata-notebook](https://github.com/BrambleXu/pydata-notebook) - 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
 - [BinRoot/TensorFlow-Book](https://github.com/BinRoot/TensorFlow-Book) - Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.
-- [zhourunlai/learning](https://github.com/zhourunlai/learning) - The data is the future of oil, digging the potential value of the data is very meaningful. This library records my road of machine learning study.
 - [TeamHG-Memex/eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
 - [wx-chevalier/AI-Notes](https://github.com/wx-chevalier/AI-Notes) - :books: [.md & .ipynb] Series of Artificial Intelligence & Deep Learning, including Mathematics Fundamentals, Python Practices, NLP Application, etc. 💫 人工智能与深度学习实战，数理统计篇 | 机器学习篇 | 深度学习篇 | 自然语言处理篇 | 工具
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
