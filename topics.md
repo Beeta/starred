@@ -551,6 +551,7 @@
 - [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
 - [thieman/dagobah](https://github.com/thieman/dagobah) - Simple DAG-based job scheduler in Python
 - [sofastack/sofa-jarslink](https://github.com/sofastack/sofa-jarslink) - Jarslink is a sofa ark plugin used to manage multi-application deployment
+- [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 - [yidao620c/SpringBootBucket](https://github.com/yidao620c/SpringBootBucket) - Springboot bucket
 - [szzhiyang/PerfectWindows](https://github.com/szzhiyang/PerfectWindows) - Power Keys - 解放 Windows 和 macOS 使用效率
 - [xueqiu/rdr](https://github.com/xueqiu/rdr) - 
