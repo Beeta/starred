@@ -146,6 +146,7 @@
 
 ## artificial-intelligence 
 
+- [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [kennethreitz/simplemind](https://github.com/kennethreitz/simplemind) - Python API client for AI providers that intends to replace LangChain and LangGraph for most common use cases.
 - [toutiaoio/weekly.manong.io](https://github.com/toutiaoio/weekly.manong.io) - 码农周刊 - 每周五发送，欢迎订阅！欢迎加入读者圈子，一起交流！
 - [wx-chevalier/AI-Notes](https://github.com/wx-chevalier/AI-Notes) - :books: [.md & .ipynb] Series of Artificial Intelligence & Deep Learning, including Mathematics Fundamentals, Python Practices, NLP Application, etc. 💫 人工智能与深度学习实战，数理统计篇 | 机器学习篇 | 深度学习篇 | 自然语言处理篇 | 工具
@@ -501,6 +502,7 @@
 
 ## open-source 
 
+- [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
 ## openai 
