@@ -44,6 +44,7 @@
 - [frontend](#frontend)
 - [game](#game)
 - [github](#github)
+- [gkd-subscription](#gkd-subscription)
 - [go](#go)
 - [golang](#golang)
 - [hacktoberfest](#hacktoberfest)
@@ -106,6 +107,7 @@
 - [tailwindcss](#tailwindcss)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [vue](#vue)
 - [web-development](#web-development)
@@ -322,6 +324,10 @@
 ## github 
 
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+
+## gkd-subscription 
+
+- [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
 
 ## go 
 
@@ -783,6 +789,10 @@
 ## terminal 
 
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
+
+## typescript 
+
+- [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
 
 ## ubuntu 
 
