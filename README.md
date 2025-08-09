@@ -84,6 +84,7 @@
 
 ## Java 
 
+- [linyiqun/DataMiningAlgorithm](https://github.com/linyiqun/DataMiningAlgorithm) - 数据挖掘18大算法实现以及其他相关经典DM算法
 - [water8394/flink-recommandSystem-demo](https://github.com/water8394/flink-recommandSystem-demo) - :helicopter::rocket:基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。
 - [kingyuluk/FlappyBird](https://github.com/kingyuluk/FlappyBird) - 基于Java基础类库编写的Flappy Bird
 - [PowerJob/PowerJob](https://github.com/PowerJob/PowerJob) - Enterprise job scheduling middleware with distributed computing ability.
@@ -106,7 +107,6 @@
 - [sing1ee/dict_build](https://github.com/sing1ee/dict_build) - 自动构建中文词库：http://www.matrix67.com/blog/archives/5044
 - [zhwj184/springdemo](https://github.com/zhwj184/springdemo) - spring3的IOC，AOP，JDBC，orm等各个模块的使用示例集锦，可以作为入门的spring学习示例教程
 - [javatuples/javatuples](https://github.com/javatuples/javatuples) - Typesafe representation of tuples in Java.
-- [linyiqun/DataMiningAlgorithm](https://github.com/linyiqun/DataMiningAlgorithm) - 数据挖掘18大算法实现以及其他相关经典DM算法
 
 ## JavaScript 
 
