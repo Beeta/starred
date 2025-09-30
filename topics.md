@@ -636,7 +636,6 @@
 - [isnowfy/snownlp](https://github.com/isnowfy/snownlp) - Python library for processing Chinese text
 - [zTree/zTree_v3](https://github.com/zTree/zTree_v3) - jQuery Tree Plugin
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [iamyaojie/Spider](https://github.com/iamyaojie/Spider) - Wandering Spider
 - [Natumsol/front-end-collect](https://github.com/Natumsol/front-end-collect) - 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
 - [subprotocol/verlet-js](https://github.com/subprotocol/verlet-js) - A simple Verlet physics engine written in javascript
 - [comeforu2012/truth](https://github.com/comeforu2012/truth) - 
