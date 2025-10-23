@@ -228,7 +228,7 @@
 - [dashidhy/algorithm-pattern-python](https://github.com/dashidhy/algorithm-pattern-python) - Python version of algorithm-pattern
 - [bchao1/bullet](https://github.com/bchao1/bullet) - 🚅 Interactive prompts made simple. Build a prompt like stacking blocks.
 - [LUCY78765580/Python-web-scraping](https://github.com/LUCY78765580/Python-web-scraping) - python爬虫，包含大小项目
-- [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+- [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2025年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model) - 😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟
 - [monklof/flaskproject-in-production](https://github.com/monklof/flaskproject-in-production) - 一个Flask手脚架工具，集成一些在开发生产时非常有用的功能
 - [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
