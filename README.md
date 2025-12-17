@@ -67,7 +67,7 @@
 - [Nayacco/lizhi](https://github.com/Nayacco/lizhi) - 🎉 南京李志 在线播放 国内高速cdn迅雷下载
 - [Wscats/CV](https://github.com/Wscats/CV) - :see_no_evil:Front End Engineer Curriculum Vitae - 面试宝典和简历生成器
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习
 - [open-power-workgroup/Hospital](https://github.com/open-power-workgroup/Hospital) - OpenPower工作组收集汇总的医院开放数据
 - [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [csuldw/WSpider](https://github.com/csuldw/WSpider) - 爬虫练习：新浪微博用户数据爬取、模拟知乎登陆
