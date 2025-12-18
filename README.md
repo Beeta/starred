@@ -54,7 +54,7 @@
 
 ## Go 
 
-- [smallnest/langgraphgo](https://github.com/smallnest/langgraphgo) - port langgraph to Go: Build resilient AI agents as graphs. 中文名：懒狗
+- [smallnest/langgraphgo](https://github.com/smallnest/langgraphgo) - LangGraph for Go, the easiest way to write AI agents in Go
 - [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) - 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。
 - [lwch/natpass](https://github.com/lwch/natpass) - 🔥居家办公，远程开发神器
 - [HDT3213/godis](https://github.com/HDT3213/godis) - A Golang implemented Redis Server and Cluster. Go 语言实现的 Redis 服务器和分布式集群
@@ -67,7 +67,7 @@
 - [Nayacco/lizhi](https://github.com/Nayacco/lizhi) - 🎉 南京李志 在线播放 国内高速cdn迅雷下载
 - [Wscats/CV](https://github.com/Wscats/CV) - :see_no_evil:Front End Engineer Curriculum Vitae - 面试宝典和简历生成器
 - [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [open-power-workgroup/Hospital](https://github.com/open-power-workgroup/Hospital) - OpenPower工作组收集汇总的医院开放数据
 - [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [csuldw/WSpider](https://github.com/csuldw/WSpider) - 爬虫练习：新浪微博用户数据爬取、模拟知乎登陆
