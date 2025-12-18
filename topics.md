@@ -123,12 +123,12 @@
 
 ## agent 
 
-- [smallnest/langgraphgo](https://github.com/smallnest/langgraphgo) - port langgraph to Go: Build resilient AI agents as graphs. 中文名：懒狗
+- [smallnest/langgraphgo](https://github.com/smallnest/langgraphgo) - LangGraph for Go, the easiest way to write AI agents in Go
 - [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
 
 ## ai 
 
-- [smallnest/langgraphgo](https://github.com/smallnest/langgraphgo) - port langgraph to Go: Build resilient AI agents as graphs. 中文名：懒狗
+- [smallnest/langgraphgo](https://github.com/smallnest/langgraphgo) - LangGraph for Go, the easiest way to write AI agents in Go
 - [cyfyifanchen/one-person-company](https://github.com/cyfyifanchen/one-person-company) - 遇事不决，Vibe 力学! One-Person Company AI Tools Series – continuously updated to help boost productivity and empower your solo business!
 - [kennethreitz/simplemind](https://github.com/kennethreitz/simplemind) - Python API client for AI providers that intends to replace LangChain and LangGraph for most common use cases.
 - [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
@@ -618,7 +618,7 @@
 - [baidu/Elasticsearch](https://github.com/baidu/Elasticsearch) - Baidu Elasticsearch
 - [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 - [jiqizhixin/AI-Terminology-page](https://github.com/jiqizhixin/AI-Terminology-page) - The English-Chinese paired terminologies in Artificial Intelligence Domain
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [alexandru/scala-best-practices](https://github.com/alexandru/scala-best-practices) - A collection of Scala best practices
 - [seekerlee/SoundPirate](https://github.com/seekerlee/SoundPirate) - Chrome 插件：声海盗，下载在线音乐插件，支持豆瓣，虾米，QQ音乐，网易云音乐等
 - [MartianZ/MartianZ-BLOG](https://github.com/MartianZ/MartianZ-BLOG) - A simple Python BLOG, designed for myself.
