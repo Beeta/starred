@@ -123,12 +123,12 @@
 
 ## agent 
 
-- [smallnest/langgraphgo](https://github.com/smallnest/langgraphgo) - 功能如此强大，而又那么简单的 Agent 框架！
+- [smallnest/langgraphgo](https://github.com/smallnest/langgraphgo) - 功能那么强大，代码如此简单
 - [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
 
 ## ai 
 
-- [smallnest/langgraphgo](https://github.com/smallnest/langgraphgo) - 功能如此强大，而又那么简单的 Agent 框架！
+- [smallnest/langgraphgo](https://github.com/smallnest/langgraphgo) - 功能那么强大，代码如此简单
 - [cyfyifanchen/one-person-company](https://github.com/cyfyifanchen/one-person-company) - 遇事不决，Vibe 力学! One-Person Company AI Tools Series – continuously updated to help boost productivity and empower your solo business!
 - [kennethreitz/simplemind](https://github.com/kennethreitz/simplemind) - Python API client for AI providers that intends to replace LangChain and LangGraph for most common use cases.
 - [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
