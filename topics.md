@@ -558,6 +558,7 @@
 
 ## others 
 
+- [smallnest/notex](https://github.com/smallnest/notex) - An open-source alternative to NotebookLM
 - [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) - 《Agentic Design Patterns》中文翻译版
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [mev15/agents-team](https://github.com/mev15/agents-team) - 
