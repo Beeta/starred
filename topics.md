@@ -116,6 +116,7 @@
 - [terminal](#terminal)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [video](#video)
 - [vue](#vue)
 - [web-development](#web-development)
 - [webpack](#webpack)
@@ -841,6 +842,10 @@
 ## ubuntu 
 
 - [judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial) - 《Java 程序员眼中的 Linux》
+
+## video 
+
+- [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.
 
 ## vue 
 
