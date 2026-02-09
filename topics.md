@@ -615,7 +615,6 @@
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [geekUsers/geekHome](https://github.com/geekUsers/geekHome) - :dancers: 极客屋是极客们的社区。在这里大家能够多多分享自己正在做的有趣事物、最近的学习、交流想法，在这里找到朋友认识更多有趣的人。
 - [ruanyf/jstraining](https://github.com/ruanyf/jstraining) - 全栈工程师培训材料
-- [m0ver/awesome-java](https://github.com/m0ver/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
 - [baidu/Elasticsearch](https://github.com/baidu/Elasticsearch) - Baidu Elasticsearch
 - [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 - [jiqizhixin/AI-Terminology-page](https://github.com/jiqizhixin/AI-Terminology-page) - The English-Chinese paired terminologies in Artificial Intelligence Domain
