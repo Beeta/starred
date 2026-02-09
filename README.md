@@ -196,7 +196,6 @@
 - [svozniuk/java-interviews](https://github.com/svozniuk/java-interviews) - A collection of Java interview questions and answers to them
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [ruanyf/jstraining](https://github.com/ruanyf/jstraining) - 全栈工程师培训材料
-- [m0ver/awesome-java](https://github.com/m0ver/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
 - [jiqizhixin/AI-Terminology-page](https://github.com/jiqizhixin/AI-Terminology-page) - The English-Chinese paired terminologies in Artificial Intelligence Domain
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [alexandru/scala-best-practices](https://github.com/alexandru/scala-best-practices) - A collection of Scala best practices
