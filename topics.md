@@ -40,6 +40,7 @@
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [devops](#devops)
+- [distributed-systems](#distributed-systems)
 - [documentation](#documentation)
 - [education](#education)
 - [finance](#finance)
@@ -320,6 +321,10 @@
 - [TencentBlueKing/bkpaas-python-sdk](https://github.com/TencentBlueKing/bkpaas-python-sdk) - 蓝鲸 PaaS 平台 Python 工具集
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [openspug/spug](https://github.com/openspug/spug) - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
+
+## distributed-systems 
+
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
 ## documentation 
 
