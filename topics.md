@@ -22,6 +22,7 @@
 - [bioinformatics](#bioinformatics)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
@@ -232,6 +233,10 @@
 ## c-plus-plus 
 
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+
+## c-sharp 
+
+- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 
 ## chatbot 
 
@@ -672,7 +677,6 @@
 - [aploium/zmirror](https://github.com/aploium/zmirror) - The next-gen reverse proxy for full site mirroring
 - [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 - [cuber/ngx_http_google_filter_module](https://github.com/cuber/ngx_http_google_filter_module) - Nginx Module for Google Mirror
-- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 - [agiledon/scala_coding_convention](https://github.com/agiledon/scala_coding_convention) - Scala编码规范与最佳实践
 - [csuldw/WSpider](https://github.com/csuldw/WSpider) - 爬虫练习：新浪微博用户数据爬取、模拟知乎登陆
 - [jiqizhixin/AI00](https://github.com/jiqizhixin/AI00) - 
