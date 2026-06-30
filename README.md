@@ -203,7 +203,7 @@
 - [karan/Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [ruanyf/jstraining](https://github.com/ruanyf/jstraining) - 全栈工程师培训材料
 - [jiqizhixin/AI-Terminology-page](https://github.com/jiqizhixin/AI-Terminology-page) - The English-Chinese paired terminologies in Artificial Intelligence Domain
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [alexandru/scala-best-practices](https://github.com/alexandru/scala-best-practices) - A collection of Scala best practices
 - [AmazingApps/Amazing-Windows-Apps](https://github.com/AmazingApps/Amazing-Windows-Apps) - 📗Introduce you amazing Windows apps🕶READ ONLINE 👉
 - [archnotes/gitbook](https://github.com/archnotes/gitbook) - 高可用架构集体创作文档
