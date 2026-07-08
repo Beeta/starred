@@ -91,7 +91,7 @@
 
 - [linyiqun/DataMiningAlgorithm](https://github.com/linyiqun/DataMiningAlgorithm) - 数据挖掘18大算法实现以及其他相关经典DM算法
 - [water8394/flink-recommandSystem-demo](https://github.com/water8394/flink-recommandSystem-demo) - :helicopter::rocket:基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [kingyuluk/FlappyBird](https://github.com/kingyuluk/FlappyBird) - 基于Java基础类库编写的Flappy Bird
 - [PowerJob/PowerJob](https://github.com/PowerJob/PowerJob) - Enterprise job scheduling middleware with distributed computing ability.
 - [heibaiying/BigData-Notes](https://github.com/heibaiying/BigData-Notes) - 大数据入门指南  :star:
