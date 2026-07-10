@@ -129,6 +129,7 @@
 - [web-development](#web-development)
 - [webpack](#webpack)
 - [windows](#windows)
+- [workflow](#workflow)
 
 ## agent 
 
@@ -921,6 +922,12 @@
 ## windows 
 
 - [AmazingApps/Amazing-Windows-Apps](https://github.com/AmazingApps/Amazing-Windows-Apps) - 📗Introduce you amazing Windows apps🕶READ ONLINE 👉
+
+## workflow 
+
+- [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) - Pocket Flow: 100-line LLM framework. Let Agents build Agents!
+- [PowerJob/PowerJob](https://github.com/PowerJob/PowerJob) - Enterprise job scheduling middleware with distributed computing ability.
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 
 
 ## License
