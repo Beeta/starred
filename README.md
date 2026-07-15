@@ -194,7 +194,6 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [luhuisicnu/The-Flask-Mega-Tutorial-zh](https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh) - 翻译自Miguel Grinberg的blog https://blog.miguelgrinberg.com 的2017年新版The Flask Mega-Tutorial教程
 - [wahyd4/work-in-australia](https://github.com/wahyd4/work-in-australia) - Work in Australia as a Developer / 程序员如何申请到澳洲工作
-- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [zhouwei2008/allDocument](https://github.com/zhouwei2008/allDocument) - 开发文档
 - [szzhiyang/PerfectWindows](https://github.com/szzhiyang/PerfectWindows) - Power Keys - 解放 Windows 和 macOS 使用效率
 - [stanzhai/be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) - 成为专业程序员路上用到的各种优秀资料、神器及框架
@@ -253,6 +252,7 @@
 - [wangshub/Douyin-Bot](https://github.com/wangshub/Douyin-Bot) - 😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？
 - [HuberTRoy/leetCode](https://github.com/HuberTRoy/leetCode) - :pencil2: 算法相关知识储备 LeetCode with Python and JavaScript :books:
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 - [lawlite19/MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python) - 机器学习算法python实现
