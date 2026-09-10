@@ -621,7 +621,6 @@
 - [mev15/agents-team](https://github.com/mev15/agents-team) - 
 - [linyiqun/DataMiningAlgorithm](https://github.com/linyiqun/DataMiningAlgorithm) - 数据挖掘18大算法实现以及其他相关经典DM算法
 - [netdcy/FlowVision](https://github.com/netdcy/FlowVision) - Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience.
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [zhwei820/learn.lianglianglee.com](https://github.com/zhwei820/learn.lianglianglee.com) - 
 - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh) - 程序员应该访问的最佳网站中文版
 - [berryjam/mastering-bitcoin-3rd](https://github.com/berryjam/mastering-bitcoin-3rd) - 《精通比特币》第三版翻译，希望本翻译内容能够为大家带来更新的比特币学习内容和一些技术上的思考，内含比特币java应用开发示例、rust的brc20编程实践，使用cpuminer挖矿，BTC二层详细技术分析，欢迎pr提交与BTC相关的技术知识或者修正优化文中错误不足。
@@ -675,7 +674,7 @@
 - [baidu/Elasticsearch](https://github.com/baidu/Elasticsearch) - Baidu Elasticsearch
 - [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 - [jiqizhixin/AI-Terminology-page](https://github.com/jiqizhixin/AI-Terminology-page) - The English-Chinese paired terminologies in Artificial Intelligence Domain
-- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语
 - [alexandru/scala-best-practices](https://github.com/alexandru/scala-best-practices) - A collection of Scala best practices
 - [seekerlee/SoundPirate](https://github.com/seekerlee/SoundPirate) - Chrome 插件：声海盗，下载在线音乐插件，支持豆瓣，虾米，QQ音乐，网易云音乐等
 - [MartianZ/MartianZ-BLOG](https://github.com/MartianZ/MartianZ-BLOG) - A simple Python BLOG, designed for myself.
