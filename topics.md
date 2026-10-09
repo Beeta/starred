@@ -681,7 +681,7 @@
 - [baidu/Elasticsearch](https://github.com/baidu/Elasticsearch) - Baidu Elasticsearch
 - [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
 - [jiqizhixin/AI-Terminology-page](https://github.com/jiqizhixin/AI-Terminology-page) - The English-Chinese paired terminologies in Artificial Intelligence Domain
-- [byoungd/up](https://github.com/byoungd/up) - 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.
+- [byoungd/up](https://github.com/byoungd/up) - 人生进阶指南 韩先凯的人生进阶指南 英语学习指南 离谱的人生 AI时代终身学习：AI、学习、创业与成长。
 - [alexandru/scala-best-practices](https://github.com/alexandru/scala-best-practices) - A collection of Scala best practices
 - [seekerlee/SoundPirate](https://github.com/seekerlee/SoundPirate) - Chrome 插件：声海盗，下载在线音乐插件，支持豆瓣，虾米，QQ音乐，网易云音乐等
 - [MartianZ/MartianZ-BLOG](https://github.com/MartianZ/MartianZ-BLOG) - A simple Python BLOG, designed for myself.
