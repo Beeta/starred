@@ -617,6 +617,7 @@
 
 ## others 
 
+- [vicanso/charts-rs](https://github.com/vicanso/charts-rs) - A charts library for rust
 - [zhu327/pi](https://github.com/zhu327/pi) - My own Pi coding agent configuration
 - [apache/ossie](https://github.com/apache/ossie) - Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from
