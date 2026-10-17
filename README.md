@@ -288,6 +288,7 @@
 
 ## Rust 
 
+- [vicanso/charts-rs](https://github.com/vicanso/charts-rs) - A charts library for rust
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 
 ## Scala 
