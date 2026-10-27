@@ -894,7 +894,7 @@
 
 ## tailwindcss 
 
-- [openneno/neno](https://github.com/openneno/neno) - 使用svelte+tailwindcss 仿照 浮墨 写的pwa应用
+- [openneno/neno](https://github.com/openneno/neno) - 记一点什么东西,支援未来
 
 ## tensorflow 
 
